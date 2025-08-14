@@ -70,6 +70,13 @@
 
 ---
 
+### 📚 Book Information
+
+![User History](assets/v8.png)  
+*View borrowing logs and return status.*
+
+---
+
 ### 🕒 User History
 
 ![User History](assets/v7.png)  
