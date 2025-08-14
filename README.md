@@ -84,7 +84,7 @@
 | UI          | JavaFX, Swing       |
 | Backend     | Java                |
 | Database    | SQL (Relational)    |
-| Scraping    | Selenium + Wikipedia |
+| Scraping    | Selenium + Jsoup + Wikipedia |
 | Auth        | Custom Java Auth Logic |
 
 ---
