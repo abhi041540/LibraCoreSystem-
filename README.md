@@ -70,10 +70,10 @@
 
 ---
 
-### 📚 Book Information
+### 📖 Book Details View
 
 ![User History](assets/v8.png)  
-*View borrowing logs and return status.*
+*Clicking on a book reveals detailed info — title, author, synopsis, and metadata scraped from Wikipedia..*
 
 ---
 
