@@ -35,7 +35,7 @@
 
 ---
 
-### 🧑‍💼 Staff Dashboard
+### 📊 Dashboard
 
 ![Staff Panel](assets/v2.png)  
 *Access user and book data with full control.*
